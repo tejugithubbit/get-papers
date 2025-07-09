@@ -1,0 +1,2 @@
+[tool.poetry.scripts]
+get-papers-list = "get_papers.main:main"
